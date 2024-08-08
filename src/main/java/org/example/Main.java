@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world1!");
         System.out.println("Hello world from second commit");
         System.out.println("Test 3");
+        System.out.println("I am in branch b1");
     }
 }
